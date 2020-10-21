@@ -1,0 +1,4 @@
+#Sun May 17 16:10:46 NPT 2020
+base.0=/home/asmita/projects/TrashToCash/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
